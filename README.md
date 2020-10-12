@@ -1,0 +1,1 @@
+# Authenication Example from Stephen Grider's Advanced React Course on Udemy.com
